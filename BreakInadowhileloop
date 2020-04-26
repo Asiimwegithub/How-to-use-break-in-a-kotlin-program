@@ -9,6 +9,6 @@ fun main(args: Array<String>){
         }
         x++
     }while (x<=10)
-    //we run to see if it stops at 5 instead of continuing up to 10
+ //we run to see if it stops at 5 instead of continuing up to 10
 
 }
